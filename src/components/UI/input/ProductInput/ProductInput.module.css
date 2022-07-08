@@ -1,0 +1,11 @@
+.inputStyle {
+  padding: 5px 15px;
+  border: 2px solid darkblue;
+  margin: 5px 0;
+  width: 90%;
+}
+
+.inputStyle::placeholder {
+  color: darkblue;
+  font-weight: bold;
+}
