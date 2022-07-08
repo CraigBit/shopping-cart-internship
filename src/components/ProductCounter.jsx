@@ -11,9 +11,7 @@ const ProductCounter = ({ discountPercent, discountActivated, products }) => {
   }, [products.length]);
 
   useEffect(() => {
-    if (discountActivated) {
-      calcTotalDiscount(setTotalDiscount, totalPrice, discountPercent);
-    }
+    calcTotalDiscount(setTotalDiscount, totalPrice, discountPercent);
   }, [totalPrice, discountPercent]);
 
   return (
