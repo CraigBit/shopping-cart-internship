@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/shopping-cart-internship/static/css/main.321215e2.css",
+    "main.js": "/shopping-cart-internship/static/js/main.12de2d06.js",
+    "index.html": "/shopping-cart-internship/index.html",
+    "main.321215e2.css.map": "/shopping-cart-internship/static/css/main.321215e2.css.map",
+    "main.12de2d06.js.map": "/shopping-cart-internship/static/js/main.12de2d06.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.321215e2.css",
+    "static/js/main.12de2d06.js"
+  ]
+}
